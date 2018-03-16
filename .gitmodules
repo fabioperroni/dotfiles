@@ -1,0 +1,48 @@
+[submodule "vim/.vim/pack/bundle/start/vim-sensible"]
+	path = vim/.vim/pack/bundle/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "vim/.vim/pack/bundle/start/vim-sleuth"]
+	path = vim/.vim/pack/bundle/start/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth.git
+[submodule "vim/.vim/pack/bundle/start/vim-surround"]
+	path = vim/.vim/pack/bundle/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "vim/.vim/pack/bundle/start/vim-commentary"]
+	path = vim/.vim/pack/bundle/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "vim/.vim/pack/bundle/start/vim-fugitive"]
+	path = vim/.vim/pack/bundle/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "vim/.vim/pack/bundle/start/vim-markdown"]
+	path = vim/.vim/pack/bundle/start/vim-markdown
+	url = https://github.com/tpope/vim-markdown.git
+[submodule "vim/.vim/pack/bundle/start/vim-airline"]
+	path = vim/.vim/pack/bundle/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim/.vim/pack/bundle/start/vim-airline-themes"]
+	path = vim/.vim/pack/bundle/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "vim/.vim/pack/bundle/start/promptline"]
+	path = vim/.vim/pack/bundle/start/promptline
+	url = https://github.com/edkolev/promptline.vim
+[submodule "vim/.vim/pack/bundle/start/tmuxline"]
+	path = vim/.vim/pack/bundle/start/tmuxline
+	url = https://github.com/edkolev/tmuxline.vim
+[submodule "vim/.vim/pack/bundle/start/dracula-theme"]
+	path = vim/.vim/pack/bundle/start/dracula-theme
+	url = https://github.com/dracula/vim.git
+[submodule "vim/.vim/pack/bundle/start/nerdtree"]
+	path = vim/.vim/pack/bundle/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim/.vim/pack/bundle/start/falcon"]
+	path = vim/.vim/pack/bundle/start/falcon
+	url = https://github.com/fenetikm/falcon
+[submodule "base16-shell"]
+	path = base16-shell
+	url = https://github.com/chriskempson/base16-shell.git
+[submodule "vim/.vim/pack/bundle/start/base16-vim"]
+	path = vim/.vim/pack/bundle/start/base16-vim
+	url = https://github.com/chriskempson/base16-vim.git
+[submodule "vim/.vim/pack/bundle/start/nord-vim"]
+	path = vim/.vim/pack/bundle/start/nord-vim
+	url = https://github.com/arcticicestudio/nord-vim.git
