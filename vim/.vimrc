@@ -13,16 +13,24 @@ syntax on
 filetype plugin indent on
 set number
 set cursorline
-set laststatus=2
 
 " vim-nord configuration
-let g:nord_italic = 1 
-let g:nord_italic_comments = 1
-let g:nord_comment_brightness = 15
-colorscheme nord
+" let g:nord_italic = 1
+" let g:nord_italic_comments = 1
+" let g:nord_comment_brightness = 15
+" colorscheme nord
+
+" vim-dracula configuration
+colorscheme dracula
 
 " vim-airline configuration
+set laststatus=2
+set noshowmode
+
 let g:airline_powerline_fonts = 1
 let g:airline_skip_empty_sections = 1
-let g:airline_theme='nord'
+let g:airline_theme='dracula'
 
+" promptline configuration
+let g:promptline_theme = 'airline'
+let g:promptline_preset = 'fabio'
