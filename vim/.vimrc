@@ -1,7 +1,7 @@
 " vimrc file
 " author: Fabio Perroni
-" version: 0.1
-" date: 2018-03
+" version: 0.2
+" date: 2018-10
 
 " Use 24bit color with vim8 in wsltty
 set termguicolors
@@ -13,12 +13,6 @@ syntax on
 filetype plugin indent on
 set number
 set cursorline
-
-" vim-nord configuration
-" let g:nord_italic = 1
-" let g:nord_italic_comments = 1
-" let g:nord_comment_brightness = 15
-" colorscheme nord
 
 " vim-dracula configuration
 colorscheme dracula

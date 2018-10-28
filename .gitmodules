@@ -31,12 +31,12 @@
 [submodule "vim/.vim/pack/bundle/start/nerdtree"]
 	path = vim/.vim/pack/bundle/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "vim/.vim/pack/bundle/start/nord-vim"]
-	path = vim/.vim/pack/bundle/start/nord-vim
-	url = https://github.com/arcticicestudio/nord-vim.git
 [submodule "vim/.vim/pack/bundle/start/dracula"]
 	path = vim/.vim/pack/bundle/start/dracula
 	url = https://github.com/dracula/vim.git
 [submodule "tmux/.tmux/plugins/tpm"]
 	path = tmux/.tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "tmux/.tmux/plugins/tmux-sensible"]
+	path = tmux/.tmux/plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
