@@ -3,6 +3,9 @@
 " version: 0.2
 " date: 2018-10
 
+" fzf
+set rtp+=~/.fzf
+
 " Use 24bit color with vim8 in wsltty
 set termguicolors
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"

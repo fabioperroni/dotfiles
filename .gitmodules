@@ -40,3 +40,9 @@
 [submodule "tmux/.tmux/plugins/tmux-sensible"]
 	path = tmux/.tmux/plugins/tmux-sensible
 	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule "fzf"]
+	path = fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "vim/.vim/pack/bundle/start/fzf"]
+	path = vim/.vim/pack/bundle/start/fzf
+	url = https://github.com/junegunn/fzf.vim

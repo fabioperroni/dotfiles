@@ -127,7 +127,6 @@ umask 22
 
 # PGP Key
 export GPGKEY=62739BD28E717150
-
-
-
 export GPG_TTY=$(tty)
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
