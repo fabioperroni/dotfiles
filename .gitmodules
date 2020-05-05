@@ -52,3 +52,9 @@
 [submodule "vim/.vim/pack/bundle/start/ale"]
 	path = vim/.vim/pack/bundle/start/ale
 	url = https://github.com/w0rp/ale.git
+[submodule "vim/.vim/pack/bundle/start/nord-vim"]
+	path = vim/.vim/pack/bundle/start/nord-vim
+	url = https://github.com/arcticicestudio/nord-vim
+[submodule "dircolors/nord-dircolors"]
+	path = dircolors/nord-dircolors
+	url = https://github.com/arcticicestudio/nord-dircolors
