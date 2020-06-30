@@ -18,7 +18,10 @@ set number
 set cursorline
 
 " nord-vim configuration
-colorscheme nord
+"colorscheme nord
+
+set background=dark
+colorscheme gruvbox
 
 " vim-airline configuration
 set laststatus=2
@@ -26,8 +29,8 @@ set noshowmode
 
 let g:airline_powerline_fonts = 1
 let g:airline_skip_empty_sections = 1
-let g:airline_theme='nord'
+let g:airline_theme='gruvbox'
 
 " promptline configuration
 let g:promptline_theme = 'airline'
-let g:promptline_preset = 'fabio'
+"let g:promptline_preset = 'fabio'

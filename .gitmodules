@@ -58,3 +58,9 @@
 [submodule "dircolors/nord-dircolors"]
 	path = dircolors/nord-dircolors
 	url = https://github.com/arcticicestudio/nord-dircolors
+[submodule "vim/.vim/pack/bundle/start/gruvbox"]
+	path = vim/.vim/pack/bundle/start/gruvbox
+	url = https://github.com/morhetz/gruvbox
+[submodule "vim/.vim/pack/bundle/start/vim-colors-solarized"]
+	path = vim/.vim/pack/bundle/start/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized
